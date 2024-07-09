@@ -1,0 +1,21 @@
+.nav{
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    background-color:whitesmoke;
+    }
+.image{
+    width: 150px;
+    margin-right: 300px;
+    margin-top: 10px;
+}
+li{
+    display: inline;
+    list-style-type: none;
+    margin: 70px;
+    font-size: large;
+    
+}
+    
